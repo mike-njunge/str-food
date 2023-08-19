@@ -117,9 +117,26 @@ margin-left: .5%;
     height: 750px;
     padding-top: -50px;
 }
-
-.h{
+h1{
     font-weight: 900;
+    margin-left: -20%;
+}
+.d{
+    color: #6CB840;
+}
+.combo h1{
+    font-size: 500%;
+    color: #6CB840;
+    font-weight: 100;
+    margin-top: 10%;
+ 
+
+}
+h3{
+    font-size: 400%;
+    margin-left: -20%;
+    font-weight: 100;
+    
 }
 .section{
     margin: 5%;
