@@ -18,10 +18,14 @@ html,body{
     margin-right: 20px;
     margin-bottom: 50px;
 } 
-.content{
-    width: auto;
-    height: fit-content;
+.content {
+    background-color: #b027ea;
+height: 90%;
+width: 90%;
+margin-top: .5%;
+margin-left: .5%;
 }
+
 .second {
     display: flex;
     flex-direction: column;
@@ -34,7 +38,7 @@ html,body{
 }
 .section{
     margin: 5%;
-    font-size: 250%;
+    font-size: 150%;
 
 }
 .section>h1 {
@@ -291,11 +295,7 @@ nav {
 
 }
 
-.content {
-    background-color: #b027ea;
-height: 100%;
-width: 100%;
-}
+
 .content-2 {
     display: flex;
 } 
