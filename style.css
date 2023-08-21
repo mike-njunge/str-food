@@ -104,6 +104,7 @@ margin-left: .5%;
     width: 80%;
     height: 70%;
     margin-left: 10%;
+    padding-bottom: 1%;
 }
 .hot .r {
     position: absolute;
@@ -124,18 +125,82 @@ h1{
 .d{
     color: #6CB840;
 }
-.combo h1{
-    font-size: 500%;
+.combo h2{
+    font-size: 300%;
     color: #6CB840;
     font-weight: 100;
-    margin-top: 10%;
- 
-
+    margin-top: 30%;
+    margin-left: -40%;
+    margin-bottom: 0%;
 }
 h3{
-    font-size: 400%;
+    font-size: 300%;
     margin-left: -20%;
     font-weight: 100;
+    padding-top: -100%;
+    
+}
+p{
+    font-size: 200%;
+    margin-left: -20%;
+}
+.content-4 {
+    text-align: center; 
+    background-color:  #FFD77C;
+    width: 80%;
+    height: 70%;
+    margin-left: 10%;
+    margin-top: -1.8%;
+}
+.Contact h3{ 
+    padding-top: 3%;
+    text-align: center;
+    margin-left: -5%;
+    
+}
+.Contact .u{
+    color: #6CB840;
+}
+.Contact p{
+    margin-left: -5%;
+}
+.contactUs .button-2 {
+    background: #6CB840;
+    color: white;
+    border-radius: 40px;
+    border: none;
+    padding: 15px 62px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 40px;
+    margin: 24px 22px;
+}
+.footer {
+    background-color: #C9ECB5;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 80%;
+    height: 40%;
+    margin-left: 10%;
+    margin-top: 3%;
+}
+.footer-1 .q{
+    font-size: 200%;
+    margin-top: 50%;
+}
+.footer-1 .w{
+    margin-top: 20%;
+}
+.footer-2{
+    font-size: 80%;
+    margin-top: 90px;
+    font-family: 'poppins';
+}
+.footer-3{
+    font-size: 80%;
+    margin-top: 90px;
     
 }
 .section{
@@ -152,9 +217,7 @@ h3{
 *{
     font-family: Poppins;
 }
-.content-4 {
-    text-align: center;
-}
+
 .button {
     background: #6CB840;
     color: white;
@@ -167,18 +230,7 @@ h3{
     font-size: 160%;
     margin: 14px 12px;
 }
-.button-2 {
-    background: #6CB840;
-    color: white;
-    border-radius: 20px;
-    border: none;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-}
+
 .clearflex{
     clear: both;
     height: 3%;
@@ -356,23 +408,4 @@ justify-content: space-around;
     color: orange; 
     font-family: poppins;
 
-}
-.eat{
-    font-size: 200%;
-    margin-top: 8%;
-    margin-right: 16%;
-}
-
-
-.hotdeals {
-    float: left;
-}
-.content-4 {
-    background-color: #FFD77C;
-}
-.footer {
-    background-color: #C9ECB5;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
 }
