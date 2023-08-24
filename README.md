@@ -22,7 +22,11 @@ To get a clear impression of the website, one requires to have a personal comput
 # Screenshots
 
 <img src="image/Screenshot (1).png">
-
+<img src="image/Screenshot (2).png">
+<img src="image/Screenshot (3).png">
+<img src="image/Screenshot (4).png">
+<img src="image/Screenshot (5).png">
+<img src="image/Screenshot (6).png">
 # Author
 
 [Lekeni](https://github.com/Lekeni)
