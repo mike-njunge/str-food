@@ -6,6 +6,9 @@ This is a simple website that shows some different types of snacks and fast food
 the menu and a contact section as well as a simple section that shows the location. Additionally you can sign up to the cafe's newsletter through a link at the bottom part.
 
 The landing page gives access to navigate through all the offered services and provided snacks/foods. Delivery services are not available at the moment.
+This is the live link to the website
+,,,,
+
 
 # Tools used to build the website
 
@@ -27,9 +30,10 @@ To get a clear impression of the website, one requires to have a personal comput
 <img src="image/Screenshot (4).png">
 <img src="image/Screenshot (5).png">
 <img src="image/Screenshot (6).png">
+
 # Author
 
-[Lekeni](https://github.com/Lekeni)
+[Mike](https://github.com/Mike)
 
 # Issues
 
@@ -37,16 +41,7 @@ The only known issue with the website is that the website is not fully responsiv
 
 # License
 
-The project is issued under the Apche License 2.0 which states:
+The project is issued under the MIT License 
 
 ```
-Copyright 2023 Lekeni
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
+Copyright 2021 MIKE
