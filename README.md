@@ -21,7 +21,7 @@ To get a clear impression of the website, one requires to have a personal comput
 
 # Screenshots
 
-<img src="image/screenshot(1)">
+<img src="image/Screenshot(1)">
 
 # Author
 
